@@ -10,10 +10,10 @@ if (isTimmyAGamer) {
   console.log("Timmy loves to play World of Warcraft.");
 }
 
-let timmyAge = 17; // currently 17, old enough to drive
+let timmyAge = 15;
 
 if (timmyAge >= 16) {
   console.log("Timmy is old enough to drive.");
 } else {
-  console.log("Timmy is not old enough to drive.");
+  console.log("Timmy is not old enough to drive."); // this runs now
 }
