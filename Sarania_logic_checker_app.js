@@ -17,3 +17,8 @@ if (timmyAge >= 16) {
 } else {
   console.log("Timmy is not old enough to drive."); // this runs now
 }
+
+// In completing this activity, I used Claude (made by Anthropic) as my AI assistant
+// to help me understand and generate the JavaScript code for the Logic Checker App.
+// Claude helped me work through each step of the activity,
+// explaining concepts such as truthy and falsy values, if statements, else clauses, and comparison operators.
