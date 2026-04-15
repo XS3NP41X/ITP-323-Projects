@@ -14,4 +14,6 @@ let timmyAge = 17; // currently 17, old enough to drive
 
 if (timmyAge >= 16) {
   console.log("Timmy is old enough to drive.");
+} else {
+  console.log("Timmy is not old enough to drive.");
 }
