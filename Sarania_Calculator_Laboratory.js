@@ -1,4 +1,4 @@
-// Step 10
+// Step 11
 function calculateSum(num1, num2) {
   return num1 + num2;
 }
@@ -10,3 +10,7 @@ console.log(calculateSum(5, 5));
 function calculateDifference(num1, num2) {
   return num1 - num2;
 }
+
+console.log(calculateDifference(22, 5));
+console.log(calculateDifference(12, 1));
+console.log(calculateDifference(17, 9));
