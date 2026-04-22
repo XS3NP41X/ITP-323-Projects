@@ -1,4 +1,4 @@
-// Step 16
+// Step 17
 function calculateSum(num1, num2) {
   return num1 + num2;
 }
@@ -35,3 +35,6 @@ console.log(calculateQuotient(3, 0));
 function calculateSquare(num) {
   return num ** 2;
 }
+
+console.log(calculateSquare(2));
+console.log(calculateSquare(9));
