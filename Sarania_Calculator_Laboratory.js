@@ -1,4 +1,4 @@
-// Step 12
+// Step 13
 function calculateSum(num1, num2) {
   return num1 + num2;
 }
@@ -20,3 +20,9 @@ function calculateProduct(num1, num2) {
 }
 
 console.log(calculateProduct(13, 5));
+
+function calculateQuotient(num1, num2) {
+  return num1 / num2;
+}
+
+console.log(calculateQuotient(7, 11));
